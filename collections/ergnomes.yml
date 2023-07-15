@@ -1,12 +1,4 @@
 nfts:
-- tokenId: ac1e41e9e146208bcc4aeda77513d816fe79b1e7fafddaeba28c4f52d91d9252
-  name: 'Ergnome #001 Amateur Superergnome'
-  description: >-
-    {"721":{"ergnomes-1":{"image":null,"index":1,"name":"Amateur
-    Superergnome","series":1,"description":"Your everyday superhero. Don't let
-    your fears dwarf you: if you can dream it, you can Supergnome it.
-    ","type":"ERGnome","sex":"Male","rarity":"Common","tribe":"Villager","traits":["Thornyhero","Thornyhero","Thornyhero"],"variety":27}}}
-  imageUrl: 'null'
 - tokenId: 61603802af5b69b2a6d9129073069116af8429ec52ec0f71cd3c48c218e7668d
   name: 'Ergnome #001 Amateur Superergnome'
   description: >-
