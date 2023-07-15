@@ -1,15 +1,15 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: ERGnomes
+description: First minted in March 2021, ERGnomes are the first collectibles series featuring unique and fully fledged characters. Focusing on character design, each ERGnome has its own unique combination of traits and funky descriptions!
+image: https://ipfs.io/ipfs/QmPXwyDoZv7179P1i2q4sZwzK6aHqQSPgEmiQjnHse9Uw6
 mintAddresses:
-  - 
+  - 9fvaNpJ7bY44mYp7KeEf6FJHvgpByS7UWrHSHnM68qxgehb6vKp
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/ergnomes
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/2vU3sm8fTg
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://www.ergnomes.io/
     icon: fa-solid fa-globe fa-fw
