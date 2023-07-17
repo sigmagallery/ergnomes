@@ -2,3 +2,6 @@ collections:
 - label: Ergnomes
   data: ergnomes.yml
   image: https://ipfs.io/ipfs/QmeaYT6cv8vzpxn7Pqtg8WxYs4vHwGRdUZBzezrebWDf2H
+- label: Ethugees
+  data: ethugees.yml
+  image: https://ipfs.io/ipfs/bafybeigw4jny2xoocrxpkwtzvgaidsoqugqhzcorf6x6qytl2x7lcrnqfy/ethugeeErg.png
