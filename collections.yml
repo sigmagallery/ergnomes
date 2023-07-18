@@ -2,6 +2,8 @@ collections:
 - label: Ergnomes
   data: ergnomes.yml
   image: https://ipfs.io/ipfs/QmeaYT6cv8vzpxn7Pqtg8WxYs4vHwGRdUZBzezrebWDf2H
+  description: First minted in March 2021, ERGnomes are the first collectibles series featuring unique and fully fledged characters. Focusing on character design, each ERGnome has its own unique combination of traits and funky descriptions!
 - label: Ethugees
   data: ethugees.yml
   image: https://ipfs.io/ipfs/bafybeigw4jny2xoocrxpkwtzvgaidsoqugqhzcorf6x6qytl2x7lcrnqfy/ethugeeErg.png
+  description: A collection of 7 PoW royalty-inspired Ethugees + 30 Sloths representing Ergo competitors & Ergo dApps. NFTs descriptions are a mix of funny ones and bits of DDs. This collection aims to onboard new Ergonauts who have discovered Ergo post-merge, educating them about Ergo tech, its dApps, & these compare with other PoW coins.
